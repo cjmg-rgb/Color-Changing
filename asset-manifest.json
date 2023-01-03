@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Color-Changing/static/css/main.1da519ae.css",
+    "main.js": "/Color-Changing/static/js/main.927ca2cd.js",
+    "index.html": "/Color-Changing/index.html",
+    "main.1da519ae.css.map": "/Color-Changing/static/css/main.1da519ae.css.map",
+    "main.927ca2cd.js.map": "/Color-Changing/static/js/main.927ca2cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da519ae.css",
+    "static/js/main.927ca2cd.js"
+  ]
+}

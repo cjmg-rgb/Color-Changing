@@ -1,0 +1,2 @@
+*,:after,:before{box-sizing:border-box;margin:0;padding:0}.App{display:grid;height:100vh;place-content:center}body{font-family:monospace}.box{border:2px solid #000;display:flex;height:300px;margin-bottom:20px;place-content:center;place-items:center;width:300px}.box,.name-input{border-radius:10px;box-shadow:0 0 5px 0 #000}.name-input{font-size:2rem;max-width:300px;padding:.3rem;width:100%}
+/*# sourceMappingURL=main.1da519ae.css.map*/
